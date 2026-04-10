@@ -28,9 +28,7 @@
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=SWAYAM05527&theme=shades-of-purple&radius=10" alt="SWAYAM05527's Activity Graph" />
 </p>
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
+
 
 
 # 💻 Tech Stack:
